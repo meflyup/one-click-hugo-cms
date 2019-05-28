@@ -1,5 +1,5 @@
 +++
-title = "新闻"
+title = "Posts"
 
 # View.
 #   1 = List
